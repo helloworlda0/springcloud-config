@@ -1,1 +1,2 @@
-test
+config:
+  info: main springcloud-config test version=1
